@@ -5,7 +5,9 @@ import enchant
 
 def cleanse_common(text):
     # remove brand names
-    arr_common = ['CUSTOMER COMMENTS:',
+    arr_common = ['Digi Tech-Shop Complaints and Inquiries Daily Verbatim',
+                  'CUSTOMER COMMENTS:',
+                  'Ahold USA',
                   'stop&shop',
                   'stop & shop',
                   'stopandshop',
